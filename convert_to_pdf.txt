@@ -1,0 +1,9 @@
+To convert the resume.html file to a PDF:
+
+1. Open the resume.html file in a web browser (Chrome, Firefox, etc.)
+2. Press Ctrl+P (or Cmd+P on Mac) to open the print dialog
+3. Change the destination to "Save as PDF"
+4. Click "Save" and choose where to save the PDF file
+5. Name it "resume.pdf" and save it in the same directory as your website files
+
+This will create a PDF version of your resume that users can download from your website.
